@@ -32,8 +32,12 @@
         <p class="mt-3">Já tem uma conta? <a href="login.php" style="color: #B71C1C;">Login</a></p>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="componente/bootstrap.min.js"></script>
+    <script src="componente/jquery.min.js"></script>
+    <script src="componente/lodash.min.js"></script>
+    <script src="componente/materialize.min.js"></script>
+    <script src="componente/moment.min.js"></script>
+    <script src="componente/select2.min.js"></script>
     <script src="main.js"></script>
 </body>
 </html>
