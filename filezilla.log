@@ -1,0 +1,33 @@
+2024-06-30 15:45:32 12345 1 Status: Connecting to ftpy.yrprey.com...
+2024-06-30 15:45:32 12345 1 Status: Connection established, waiting for welcome message...
+2024-06-30 15:45:32 12345 1 Response: 220-FileZilla Server 0.9.60 beta
+2024-06-30 15:45:32 12345 1 Response: 220 Welcome to FileZilla Server
+2024-06-30 15:45:32 12345 1 Command: USER yrpreyUser
+2024-06-30 15:45:32 12345 1 Response: 331 Password required for yrpreyUser
+2024-06-30 15:45:32 12345 1 Command: PASS ********
+2024-06-30 15:45:32 12345 1 Response: 230 Logged on
+2024-06-30 15:45:32 12345 1 Status: Retrieving directory listing...
+2024-06-30 15:45:32 12345 1 Command: PASV
+2024-06-30 15:45:32 12345 1 Response: 227 Entering Passive Mode (192,168,1,2,195,157)
+2024-06-30 15:45:32 12345 1 Command: MLSD
+2024-06-30 15:45:32 12345 1 Response: 150 Opening data channel for directory listing of "/"
+2024-06-30 15:45:32 12345 1 Response: 226 Successfully transferred "/"
+2024-06-30 15:45:32 12345 1 Status: Directory listing successful
+
+2024-06-30 15:46:12 12345 1 Status: Starting upload of C:\localpath\yrpreyfile.txt
+2024-06-30 15:46:12 12345 1 Command: PASV
+2024-06-30 15:46:12 12345 1 Response: 227 Entering Passive Mode (192,168,1,2,195,158)
+2024-06-30 15:46:12 12345 1 Command: STOR yrpreyfile.txt
+2024-06-30 15:46:12 12345 1 Response: 150 Opening data channel for file upload to server of "/yrpreyfile.txt"
+2024-06-30 15:46:12 12345 1 Response: 226 Successfully transferred "/yrpreyfile.txt"
+2024-06-30 15:46:12 12345 1 Status: File transfer successful, transferred 12345 bytes in 1 second
+
+2024-06-30 15:47:45 12345 1 Status: Starting download of /remotepath/yrpreyfile.txt
+2024-06-30 15:47:45 12345 1 Command: PASV
+2024-06-30 15:47:45 12345 1 Response: 227 Entering Passive Mode (192,168,1,2,195,159)
+2024-06-30 15:47:45 12345 1 Command: RETR yrpreyfile.txt
+2024-06-30 15:47:45 12345 1 Response: 150 Opening data channel for file download from server of "/yrpreyfile.txt"
+2024-06-30 15:47:45 12345 1 Response: 226 Successfully transferred "/yrpreyfile.txt"
+2024-06-30 15:47:45 12345 1 Status: File transfer successful, transferred 12345 bytes in 1 second
+
+2024-06-30 15:50:00 12345 1 Status: Disconnected from server

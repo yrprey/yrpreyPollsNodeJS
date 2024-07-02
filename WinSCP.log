@@ -1,0 +1,32 @@
+. 2024-06-30 14:45:30.123 --------------------------------------------------------------------------
+. 2024-06-30 14:45:30.123 WinSCP Version 5.17.7 (Build 10640) (OS 10.0.19042 - Windows 10 Enterprise)
+. 2024-06-30 14:45:30.123 Configuration: ini file
+. 2024-06-30 14:45:30.123 Log level: Normal
+. 2024-06-30 14:45:30.123 Local account: DESKTOP-yrprey\User
+. 2024-06-30 14:45:30.123 Working directory: C:\Program Files (x86)\WinSCP
+. 2024-06-30 14:45:30.123 Process ID: 1234
+. 2024-06-30 14:45:30.123 Command-line: "C:\Program Files (x86)\WinSCP\WinSCP.exe"
+. 2024-06-30 14:45:30.123 --------------------------------------------------------------------------
+. 2024-06-30 14:45:30.123 Session name: yrprey Session (Site)
+. 2024-06-30 14:45:30.123 Host name: ftp.yrprey.com (Port: 21)
+. 2024-06-30 14:45:30.123 User name: yrpreyUser (Password: Yes, Key file: No)
+. 2024-06-30 14:45:30.123 Transfer Protocol: FTP
+. 2024-06-30 14:45:30.123 Ping type: Dummy, Ping interval: 30 sec; Timeout: 15 sec
+. 2024-06-30 14:45:30.123 Proxy: none
+. 2024-06-30 14:45:30.123 Send buffer: 262144
+. 2024-06-30 14:45:30.123 UTF: 2
+. 2024-06-30 14:45:30.123 FTP: FTPS: None; Passive: Yes [Force IP: Auto]; MLSD: Yes
+. 2024-06-30 14:45:30.123 Session reuse: No
+. 2024-06-30 14:45:30.123 TLS/SSL versions: SSL3.0-TLS1.3
+. 2024-06-30 14:45:30.123 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2024-06-30 14:45:30.123 Cache directory changes: Yes, Permanent: Yes
+. 2024-06-30 14:45:30.123 --------------------------------------------------------------------------
+. 2024-06-30 14:45:30.123 Connecting to ftp.yrprey.com ...
+. 2024-06-30 14:45:30.456 Connected with ftp.yrprey.com. Waiting for welcome message...
+< 2024-06-30 14:45:30.456 220 Welcome to yrprey FTP server.
+> 2024-06-30 14:45:30.456 USER yrpreyUser
+< 2024-06-30 14:45:30.456 331 Password required for yrpreyUser
+> 2024-06-30 14:45:30.456 PASS ********
+< 2024-06-30 14:45:30.456 230 User yrpreyUser logged in
+. 2024-06-30 14:45:30.456 Connected
+. 2024-06-30 14:45:30.456 --------------------------------------------------------------------------

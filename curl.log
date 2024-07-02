@@ -1,0 +1,27 @@
+*   Trying 192.168.1.1:80...
+* TCP_NODELAY set
+* Connected to yrprey.com (192.168.1.1) port 80 (#0)
+> GET /yrprey.html HTTP/1.1
+> Host: yrprey.com
+> User-Agent: curl/7.77.0
+> Accept: */*
+>
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Wed, 30 Jun 2024 12:00:00 GMT
+< Server: Apache
+< Content-Length: 1234
+< Content-Type: text/html; charset=UTF-8
+<
+<!DOCTYPE html>
+<html>
+<head>
+    <title>yrprey Domain</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>yrprey Domain</h1>
+</body>
+</html>
+* Connection #0 to host yrprey.com left intact
