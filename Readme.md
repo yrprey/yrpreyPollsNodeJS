@@ -1,6 +1,6 @@
 # YrpreyPollsNodeJS
 
-![yprey](https://imgur.com/uYfdBN9)
+![yprey](https://i.imgur.com/uYfdBN9.png)
 
 **Created by [Fernando Mengali](https://www.linkedin.com/in/fernando-mengali-273504142/)**
 
